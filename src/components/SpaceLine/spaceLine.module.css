@@ -1,0 +1,5 @@
+.spaceLine {
+  display: block;
+  border-bottom: solid 1px #CCCCCC;
+  padding: 8px 0;
+}

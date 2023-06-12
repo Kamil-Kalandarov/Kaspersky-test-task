@@ -1,0 +1,12 @@
+.hexagon {
+  width: 100%;
+  min-width: 152px;
+  height: 578px;
+  background-image: url('../../images/Background-image.png');
+  background-repeat: no-repeat;
+  -webkit-clip-path: polygon(17.09% 0.00%,86.83% 0.00%,100.00% 35.36%,76.33% 100%,0.00% 78.20%,0.28% 16.39%);
+  clip-path: polygon(17.09% 0.00%,86.83% 0.00%,100.00% 35.36%,76.33% 100%,0.00% 78.20%,0.28% 16.39%);
+  position: absolute;
+  right: 200px;
+  z-index: 0;
+}
