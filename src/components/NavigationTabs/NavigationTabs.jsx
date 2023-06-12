@@ -2,8 +2,8 @@ import { useDispatch } from 'react-redux';
 import styles from './navigationTabs.module.css';
 import { setCurrentTab } from '../../services/actions/cardActions';
 import { ReactComponent as WindowsIcon } from '../../images/Windows.svg'; 
-import { ReactComponent as WindowsIconActive } from '../../images/Windows-active.svg'
-import { ReactComponent as WindowsIconDark } from '../../images/Windows-dark.svg'
+import { ReactComponent as WindowsIconActive } from '../../images/Windows-active.svg';
+import { ReactComponent as WindowsIconDark } from '../../images/Windows-dark.svg';
 import { ReactComponent as IosIcon } from '../../images/iOS.svg';
 import { ReactComponent as IosIconActive } from '../../images/iOS-active.svg';
 import { ReactComponent as IosIconDark } from '../../images/iOS-dark.svg';
