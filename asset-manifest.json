@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d1d1a3ff.css",
+    "main.js": "./static/js/main.bb22e000.js",
+    "static/media/Background-image.png": "./static/media/Background-image.53082689a458da51f4e3.png",
+    "static/media/background-small.png": "./static/media/background-small.b7b36edbc2efee0fd708.png",
+    "static/media/Card-Icon.png": "./static/media/Card-Icon.c7f5a3ee1751772291a9.png",
+    "static/media/macOS-active.svg": "./static/media/macOS-active.b3fa1377c8b93779173c6ce3a52ffbb6.svg",
+    "static/media/macOS-dark.svg": "./static/media/macOS-dark.c51ec8576e21d518643c4edb70e6b10e.svg",
+    "static/media/macOS.svg": "./static/media/macOS.9c6b01a64938cad52821b747b568f677.svg",
+    "static/media/iOS-active.svg": "./static/media/iOS-active.a22c73b9789d619054aa6f1745d61000.svg",
+    "static/media/iOS-dark.svg": "./static/media/iOS-dark.0058b86cdc7fd6ba0ba774fbe08877ea.svg",
+    "static/media/iOS.svg": "./static/media/iOS.4a5f7c287ec39d2e4d787810d62a26d9.svg",
+    "static/media/Android-active.svg": "./static/media/Android-active.6f8d117f09b918bc5fa5f2fed73ea22d.svg",
+    "static/media/Android-dark.svg": "./static/media/Android-dark.22b3aa44da7692374c618aa012746c2c.svg",
+    "static/media/Android.svg": "./static/media/Android.7a27d21c07c40ff3c304bdeec21ff36e.svg",
+    "index.html": "./index.html",
+    "static/media/All-active.svg": "./static/media/All-active.9791676707eb7bc205a5687921ad8b0d.svg",
+    "static/media/All.svg": "./static/media/All.66c7b2721efa65ed4a1056e2fd7904e6.svg",
+    "static/media/Free-tools-active.svg": "./static/media/Free-tools-active.41d6ee7d80d176171d6c501482a4ec51.svg",
+    "static/media/Free-tools-dark.svg": "./static/media/Free-tools-dark.a6009af71ac6150b6bc36ed7665b1b62.svg",
+    "static/media/Free-tools.svg": "./static/media/Free-tools.84b820d8e9f174e0b6e10758f11d7676.svg",
+    "static/media/Windows-active.svg": "./static/media/Windows-active.7959dee53c11d0988c96d2dbae32e456.svg",
+    "static/media/Windows-dark.svg": "./static/media/Windows-dark.1c6335f42a83e61751802a9f6952fd41.svg",
+    "static/media/Windows.svg": "./static/media/Windows.5fd8aae3e4a851b10248cbe350bc32d6.svg",
+    "static/media/Arrow-right.svg": "./static/media/Arrow-right.370803ec5950e8cb219dd6daa39592c6.svg",
+    "static/media/Arrow-left.svg": "./static/media/Arrow-left.fbd76f391f25cda330ae69478494edfc.svg",
+    "main.d1d1a3ff.css.map": "./static/css/main.d1d1a3ff.css.map",
+    "main.bb22e000.js.map": "./static/js/main.bb22e000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d1a3ff.css",
+    "static/js/main.bb22e000.js"
+  ]
+}
